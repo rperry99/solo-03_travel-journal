@@ -22,6 +22,10 @@ function App() {
   });
   return (
     <>
+      <header>
+        <i className="fa-solid fa-earth-americas"></i>
+        <p>my travel journal.</p>
+      </header>
       <section className="card-container">{travelData}</section>
     </>
   );

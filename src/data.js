@@ -5,7 +5,7 @@ export default [
     imageAlt:
       'Image of a warning sign on the Old Mans Cave path, taken by Russ',
     location: 'Ohio',
-    mapURL: '#',
+    mapURL: 'https://maps.app.goo.gl/ozTALV6GjtdS9bHh6',
     destination: 'Hocking Hills',
     travelDate: 'Sep 22nd, 2023 - Sep 24th, 2023',
     description:
@@ -17,7 +17,7 @@ export default [
     imageAlt:
       'Picture of a rusted, abandoned truck at a restaurant in Key West, taken by Russ.',
     location: 'Florida',
-    mapURL: '#',
+    mapURL: 'https://maps.app.goo.gl/Rg7EqPZ7D7S5qjAV7',
     destination: 'Key West',
     travelDate: 'Jul 22nd, 2021 - Jul 25th, 2021',
     description:
@@ -28,7 +28,7 @@ export default [
     imageURL: 'too-many-games.jpg',
     imageAlt: 'Russ and Chumlee from Pawn Stars.',
     location: 'Pennsylvania',
-    mapURL: '#',
+    mapURL: 'https://maps.app.goo.gl/Cnee4gjboYv2Eyte6',
     destination: 'Too Many Games',
     travelDate: 'Jun 24th, 2021 - Jun 27th, 2021',
     description:
