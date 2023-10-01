@@ -1,6 +1,8 @@
 export default [
   {
     imageURL: 'hocking-hills.jpg',
+    imageAlt:
+      'Image of a warning sign on the Old Mans Cave path, taken by Russ',
     location: 'Ohio',
     mapURL: '#',
     destination: 'Hocking Hills',
@@ -10,6 +12,8 @@ export default [
   },
   {
     imageURL: 'key-west.jpg',
+    imageAlt:
+      'Picture of a rusted, abandoned truck at a restaurant in Key West, taken by Russ.',
     location: 'Florida',
     mapURL: '#',
     destination: 'Key West',
@@ -19,6 +23,7 @@ export default [
   },
   {
     imageURL: 'too-many-games.jpg',
+    imageAlt: 'Russ and Chumlee from Pawn Stars.',
     location: 'Pennsylvania',
     mapURL: '#',
     destination: 'Too Many Games',
