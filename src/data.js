@@ -1,5 +1,6 @@
 export default [
   {
+    id: 1,
     imageURL: 'hocking-hills.jpg',
     imageAlt:
       'Image of a warning sign on the Old Mans Cave path, taken by Russ',
@@ -11,6 +12,7 @@ export default [
       "We went to the Hocking Hills Adventure campgound and camped in tents for 3 days (2 nights). We hiked at Old Man's Cave, went to a moonshine distillery, and walked around the town of Logan. Apparently, Bigfoot is a huge deal in Logan. Every store had a lot fo different memorobelia for him.",
   },
   {
+    id: 2,
     imageURL: 'key-west.jpg',
     imageAlt:
       'Picture of a rusted, abandoned truck at a restaurant in Key West, taken by Russ.',
@@ -22,6 +24,7 @@ export default [
       'My friend and I took a spontaneous trip to Key West, Florida. This was the first time I was ever on an airplane. Flying is so much more convenient than driving. We did an excustion where we took a sail boat out, kayaked, and snorkeled. We also walked around Duval Street. We had the best lobster rolls I ever had when we were down there as well.',
   },
   {
+    id: 3,
     imageURL: 'too-many-games.jpg',
     imageAlt: 'Russ and Chumlee from Pawn Stars.',
     location: 'Pennsylvania',

@@ -9,6 +9,7 @@ function App() {
   const travelData = data.map((entry) => {
     return (
       <Card
+        key={entry.id}
         imageURL={entry.imageURL}
         imageAlt={entry.imageAlt}
         location={entry.location}

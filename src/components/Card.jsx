@@ -4,7 +4,7 @@ function Card(props) {
       <img src={`./assets/${props.imageURL}`} alt={props.imageAlt} />
       <div className="card-content">
         <div className="map-section">
-          <i class="fa-solid fa-location-dot"></i>
+          <i className="fa-solid fa-location-dot"></i>
           <h2 className="location">{props.location}</h2>
           <a href={props.mapURL}>View on Google Maps</a>
         </div>
